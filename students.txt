@@ -1,10 +1,10 @@
-Denis Listopad
-Anastasia Brazinskaya
-Alex Abmetko
-Karalina Byeva
-Cergey Ioffe
-Nikita Kynchevich
-Evgeni Skers
-Bogdan Siricha
-Artem teleka
-Max Vikinkov
+Denis Listopad 10
+Anastasia Brazinskaya 10
+Alex Abmetko 10
+Karalina Byeva 9
+Cergey Ioffe 9
+Nikita Kynchevich 10
+Evgeni Skers 11
+Bogdan Siricha 15
+Artem teleka 9 
+Max Vikinkov 7
